@@ -30,10 +30,9 @@ A Python-based project leveraging deep learning to recognize food items from ima
 - **USDA FoodData Central**: [Nutritional Information](https://fdc.nal.usda.gov/)  
 
 ### Getting More Information  
-- **YouTube Video Demo**: SOON  
+- **YouTube Video Demo**: https://youtu.be/flpjAHNRd_Q  
   This video will explain the code and demonstrate its functionality step by step.  
-
-- **LinkedIn Post About the Project**: SOON  
+  
 
 ---
 
